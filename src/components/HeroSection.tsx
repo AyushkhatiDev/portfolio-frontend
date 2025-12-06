@@ -237,7 +237,7 @@ export const HeroSection = () => {
             {[
               { icon: Github, href: "https://github.com", label: "GitHub" },
               { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
-              { icon: Mail, href: "mailto:your@email.com", label: "Email" },
+              { icon: Mail, href: "mailto:ayushiskhati305@gmail.com", label: "Email" },
             ].map((social, index) => (
               <MagneticButton key={social.label}>
                 <motion.a
